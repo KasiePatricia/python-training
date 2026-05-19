@@ -8,7 +8,8 @@ Suggested order:
 | --- | --- | --- |
 | 1 | `loops.py` | `for`, `while` |
 | 2 | `functions.py` | Defining and calling functions |
-| 3 | `function_parameters_and_returns.py` | Parameters, defaults, `*args`, `**kwargs`, returns |
+| 3 | `function_parameters_and_returns.py` | Parameters, defaults, return values |
+| 3b | `function_parameters_and_returns_advanced.py` | Keyword-only args, `*args`, `**kwargs` (after #3) |
 | 4 | `loop_control.py` | `break`, `continue`, `pass` |
 | 5 | `nested_loops.py` | Nested loops |
 | 6 | `scope.py` | Local vs global variables |
